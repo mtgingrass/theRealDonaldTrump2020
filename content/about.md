@@ -3,4 +3,4 @@ date: "2016-05-05T21:48:51-07:00"
 title: About
 ---
 
-This is a "Trump 2020 Paradoy Site. Enjoy!""
+This is a Trump 2020 Paradoy Site. Enjoy!
