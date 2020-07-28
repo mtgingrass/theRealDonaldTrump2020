@@ -11,6 +11,8 @@ tags:
   - Trump
 ---
 
+Source: https://www.reddit.com/r/politics/comments/ctjnnk/trump_i_am_the_chosen_one/exl9pst/
+
 "[I'm much more humble](https://www.youtube.com/watch?v=1R42mFx3_ss) than you would understand."
 
 "[I have the best](http://abcnews.go.com/Politics/donald-trump-best-temperaments-presidential-candidate/story?id=41003314) temperament or certainly one of the best temperaments of anybody that's ever run for the office of president. Ever."
