@@ -3,7 +3,7 @@ languageCode: en-us
 title: The Real Donald Trump 2020 - Prison Edition
 theme: hugo-lithium
 googleAnalytics: ''
-disqusShortname: ''
+disqusShortname: 'https-therealdonaldtrump2020-com'
 ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
