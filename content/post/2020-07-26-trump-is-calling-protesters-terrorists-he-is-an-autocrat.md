@@ -14,8 +14,7 @@ tags:
 
 ## Trump is calling protesters terrorists. That puts him in the company of the world's autocrats
 
-
-![Photo of a man with a gun and mask.](/post/2020-07-26-trump-is-calling-protesters-terrorists-he-is-an-autocrat_files/criminal-1563428_1920.jpg)
+<img src="/post/2020-07-26-trump-is-calling-protesters-terrorists-he-is-an-autocrat_files/criminal-1563428_1920.jpg" alt="Man with a gun and mask. " width="60%"/>
 
 What we feared would happen is happening. Trump and the GOP said they would, we knew they would, and they are. Nothing stopped it. There have been numerous, brutal attacks on journalists, peaceful protesters, medics, the disabled, senior citizens and young children, volunteers, American citizens in their homes, politicians, neutral observers, and on and on... Unidentifiable police and an anonymous army of militarized federal agents are shooting innocent people (often in the face) with rubber bullets, tasing them, beating them with batons, teargassing, driving through crowds, physically assaulting, and illegally arresting people without cause or explanation and hauling them away in unmarked vehicles to unknown locations.
 
