@@ -19,6 +19,11 @@ tags:
 
 ► Felix Sater He grew up with Michael Cohen--Trump's former "fixer" attorney. Cohen's family owned El Caribe, which was a mob hangout for the Russian Mafia in Brooklyn. Cohen had ties to Ukrainian oligarchs through his in-laws and his brother's in-laws. Felix Sater's father had ties to the Russian mob. This goes back more than 30 years.
 
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B01HT9DRK4&asins=B01HT9DRK4&linkId=a577d8d1ecdb187b603f931eee70a256&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    
+    
 ► Trump was $4 billion in debt after his Atlantic City casinos went bankrupt. No U.S. bank would touch him. Then foreign money began flowing in through Bayrock (mentioned above). Bayrock was run by two investors: Tevfik Arif, a Kazakhstan-born former Soviet official who drew on bottomless sources of money from the former Soviet republic; and Felix Sater, a Russian-born businessman who had pleaded guilty in the 1990s to a huge stock-fraud scheme involving the Russian mafia. Bayrock partnered with Trump in 2005 and poured money into the Trump organization under the legal guise of licensing his name and property management.
 
 ► The Russia Mafia is part and parcel of Russian intelligence. Russia is a mafia state. That is not a metaphor. Putin is head of the Mafia. So the fact that they have been operating out of the home of the president of the United States is deeply disturbing.
