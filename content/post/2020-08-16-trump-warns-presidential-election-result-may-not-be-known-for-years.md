@@ -64,7 +64,8 @@ Thanks to this [post](https://www.reddit.com/r/thinkards/comments/i5noz9/2016_an
 
 
 Mitch McConnel and Paul Ryan rejected an offer by the Obama administration to sign a joint statement condemning foreign election interference
-
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B01HV5PP4M&asins=B01HV5PP4M&linkId=f235071bb602d6d3c668ee359359ce69&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 Russia interfered in the 2016 election to help Trump win
 
 > Breaking with their House Republican counterparts, the Senate Intelligence Committee said Tuesday that the intelligence community properly concluded in January of last year that Russian President Vladimir Putin was trying to help Donald Trump when Moscow meddled in the 2016 election.
