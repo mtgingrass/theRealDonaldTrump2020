@@ -11,7 +11,8 @@ tags:
   - Trump
 ---
 
-Source: https://www.reddit.com/r/politics/comments/ctjnnk/trump_i_am_the_chosen_one/exl9pst/
+From a reddit post linked below:
+
 
 "[I'm much more humble](https://www.youtube.com/watch?v=1R42mFx3_ss) than you would understand."
 
